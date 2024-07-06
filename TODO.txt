@@ -1,11 +1,11 @@
 # Tarea 1
 
--   [] Empezar a usar Angular 
+-   [x] Empezar a usar Angular 
 -   [] Crear un proyecto
 -   [] Crear un componente
 -   [] Crear un servicio
 -   [] Crear un módulo
 TODO: 
 
--   [] Crear un formulario
+-  [] Crear un formulario
 
